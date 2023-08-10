@@ -16,5 +16,15 @@ namespace Ejercicio2.Forms
         {
             InitializeComponent();
         }
+
+        private void calculateButton_MouseLeave(object sender, EventArgs e)
+        {
+            int firstNumber = int.Parse(firstNumberTextBox.Text);
+            int secondNumber = int.Parse(secondNumberTextBox.Text);
+
+            int result = firstNumber + secondNumber;
+
+            resultTextBox.Text = $"{result}";
+        }
     }
 }
