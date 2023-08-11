@@ -16,7 +16,22 @@ namespace Ejercicio2.Forms
         {
             InitializeComponent();
         }
-
+        private void firstNumberTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+                MessageBox.Show("Solo se permiten números");
+            }
+        }
+        private void secondNumberTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+                MessageBox.Show("Solo se permiten números");
+            }
+        }
         private void calculateButton_MouseLeave(object sender, EventArgs e)
         {
             int firstNumber = int.Parse(firstNumberTextBox.Text);
@@ -25,6 +40,11 @@ namespace Ejercicio2.Forms
             int result = firstNumber + secondNumber;
 
             resultTextBox.Text = $"{result}";
+        }
+        private void LimpiarButton_MouseHover(object sender, EventArgs e)
+        {
+            firstNumberTextBox.Text = "";
+            secondNumberTextBox.Text = "";
         }
     }
 }
