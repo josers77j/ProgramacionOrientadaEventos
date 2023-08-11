@@ -60,7 +60,7 @@
             // calculateButton
             // 
             calculateButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            calculateButton.Location = new Point(276, 279);
+            calculateButton.Location = new Point(285, 279);
             calculateButton.Name = "calculateButton";
             calculateButton.Size = new Size(112, 40);
             calculateButton.TabIndex = 13;
