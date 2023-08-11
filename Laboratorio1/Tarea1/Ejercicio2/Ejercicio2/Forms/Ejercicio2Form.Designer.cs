@@ -54,7 +54,7 @@
             resultTextBox.BorderStyle = BorderStyle.FixedSingle;
             resultTextBox.Location = new Point(532, 382);
             resultTextBox.Name = "resultTextBox";
-            resultTextBox.Size = new Size(55, 27);
+            resultTextBox.Size = new Size(70, 27);
             resultTextBox.TabIndex = 14;
             // 
             // calculateButton
