@@ -43,7 +43,7 @@
             // 
             resultLabel.AutoSize = true;
             resultLabel.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            resultLabel.Location = new Point(403, 382);
+            resultLabel.Location = new Point(389, 382);
             resultLabel.Name = "resultLabel";
             resultLabel.Size = new Size(111, 28);
             resultLabel.TabIndex = 15;
@@ -52,7 +52,7 @@
             // resultTextBox
             // 
             resultTextBox.BorderStyle = BorderStyle.FixedSingle;
-            resultTextBox.Location = new Point(532, 382);
+            resultTextBox.Location = new Point(516, 382);
             resultTextBox.Name = "resultTextBox";
             resultTextBox.Size = new Size(70, 27);
             resultTextBox.TabIndex = 14;
