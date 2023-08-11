@@ -119,7 +119,7 @@
             // LimpiarButton
             // 
             LimpiarButton.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            LimpiarButton.Location = new Point(439, 279);
+            LimpiarButton.Location = new Point(437, 279);
             LimpiarButton.Name = "LimpiarButton";
             LimpiarButton.Size = new Size(105, 40);
             LimpiarButton.TabIndex = 16;
