@@ -1,0 +1,17 @@
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.exe
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.deps.json
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.runtimeconfig.json
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.dll
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.pdb
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.Forms.MainForm.resources
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.AssemblyInfo.cs
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.dll
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\refint\Ejercicio1.dll
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.pdb
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.genruntimeconfig.cache
+C:\Users\jordi\source\repos\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\ref\Ejercicio1.dll
