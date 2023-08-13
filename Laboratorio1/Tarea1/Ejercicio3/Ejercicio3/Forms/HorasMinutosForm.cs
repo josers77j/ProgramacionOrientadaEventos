@@ -16,5 +16,25 @@ namespace Ejercicio3.Forms
         {
             InitializeComponent();
         }
+
+        private void horasTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+                MessageBox.Show("Solo se permiten números enteros");
+            }
+            else
+            {
+                resultadoMinutosLabel.Text = "Cuando ingrese el número presione el botón convertir para ver el resultado.";
+            }
+        }
+
+        private void convertirHorasMinutosButton_Click(object sender, EventArgs e)
+        {
+            int horas = int.Parse(horasTextBox.Text);
+            int minutos = horas * 60;
+            resultadoMinutosLabel.Text = $"                                       La cantidad de minutos son:    {minutos}";
+        }
     }
 }

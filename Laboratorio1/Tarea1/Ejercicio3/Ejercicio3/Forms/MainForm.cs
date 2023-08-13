@@ -16,5 +16,23 @@ namespace Ejercicio3.Forms
         {
             InitializeComponent();
         }
+
+        private void convertirDiasHorasButton_Click(object sender, EventArgs e)
+        {
+            DiasHorasForm diasHorasForm = new DiasHorasForm();
+            diasHorasForm.ShowDialog();
+        }
+
+        private void convertirHorasMinutosButton_Click(object sender, EventArgs e)
+        {
+            HorasMinutosForm horasMinutosForm = new HorasMinutosForm();
+            horasMinutosForm.Show();
+        }
+
+        private void convertirMinutosSegundosButton_Click(object sender, EventArgs e)
+        {
+            MinutosSegundosForm minutosSegundosForm = new MinutosSegundosForm();
+            minutosSegundosForm.ShowDialog();
+        }
     }
 }
