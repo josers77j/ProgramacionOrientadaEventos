@@ -1,7 +1,7 @@
     Nombres:                                 Carnet de estudiante:
-1. Jordi Haziel Amaya Martínez.              u20210309
-2. Javier Enrique Campos Chávez.
-3. José Rubén Trejo Granillo.
+1.  Jordi Haziel Amaya Martínez.              u20210309
+2.  Javier Enrique Campos Chávez.
+3.  José Rubén Trejo Granillo.
 
     Enlace del repositorio:
     https://github.com/josers77j/ProgramacionOrientadaEventos
